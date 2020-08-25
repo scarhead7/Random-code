@@ -47,7 +47,7 @@ public class bruteForce3 {
 	/**
 	 * This method will crack a six-digit PIN hash.
 	 *
-	 * @param hashToCrach the hashed string to crack
+	 * @param hashToCrack the hashed string to crack
 	 */
 	public static String crackPIN(String hashToCrack) throws InterruptedException {
 		/**
