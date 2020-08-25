@@ -46,7 +46,7 @@ public class bruteForce2 {
 	/**
 	 * This method will crack a six-digit PIN hash.
 	 *
-	 * @param hashToCrach the hashed string to crack
+	 * @param hashToCrack the hashed string to crack
 	 */
 	public static String crackPIN(String hashToCrack) {
 		/**
